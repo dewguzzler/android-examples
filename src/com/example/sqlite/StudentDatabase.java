@@ -39,6 +39,7 @@ public class StudentDatabase {
 		helper.close();
 		helper = null;
 		database = null;
+		//help test
 	}
 
 	public long createRow(ContentValues values) {
