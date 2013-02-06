@@ -52,6 +52,8 @@
         </activity>
         <activity android:name="com.example.sqlite.StudentUpdateActivity" >
         </activity>
+        <activity android:name="com.example.helloworld.WebActivity" >
+        </activity>
     </application>
 
 </manifest>
