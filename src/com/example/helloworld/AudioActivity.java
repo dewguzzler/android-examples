@@ -19,6 +19,7 @@ public class AudioActivity extends Activity implements OnClickListener {
 		findViewById(R.id.buttonAudio1).setOnClickListener(this);
 		findViewById(R.id.buttonAudio2).setOnClickListener(this);
 		findViewById(R.id.buttonAudio3).setOnClickListener(this);
+		//weird
 	}
 
 	@Override
